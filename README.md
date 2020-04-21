@@ -1,4 +1,4 @@
-[![Build Status](https://makautzn.visualstudio.com/ContosoAir/_apis/build/status/makautzn.ContosoAir?branchName=master)](https://makautzn.visualstudio.com/ContosoAir/_build/latest?definitionId=77&branchName=master)
+[![Build Status](https://dev.azure.com/makautzn/ContosoAirDemo/_apis/build/status/ContosoAirWebCI?branchName=master)](https://dev.azure.com/makautzn/ContosoAirDemo/_build/latest?definitionId=78&branchName=master)
 
 # Microsoft.Github CI Demo
 

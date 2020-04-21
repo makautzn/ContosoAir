@@ -10,7 +10,7 @@
 			"type": "string"
 		},
 		"p_site_prefix": {
-			"defaultValue": "githubci",
+			"defaultValue": "mkcontosoair",
 			"type": "string"
 		},
 		"p_site_web_name": {

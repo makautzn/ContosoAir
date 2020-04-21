@@ -10,7 +10,7 @@
 			"type": "string"
 		},
 		"p_site_prefix": {
-			"defaultValue": "mkcontosoair",
+			"defaultValue": "mkair",
 			"type": "string"
 		},
 		"p_site_web_name": {

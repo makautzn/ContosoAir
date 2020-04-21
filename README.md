@@ -1,5 +1,3 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
 [![Build Status](https://makautzn.visualstudio.com/ContosoAir/_apis/build/status/makautzn.ContosoAir?branchName=master)](https://makautzn.visualstudio.com/ContosoAir/_build/latest?definitionId=77&branchName=master)
 
 # Microsoft.Github CI Demo

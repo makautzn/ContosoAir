@@ -1,3 +1,4 @@
+[![Board Status](https://makautzn.visualstudio.com/438f79e4-a4a1-42c1-9c4f-bbafc8e0df21/6874503d-283f-4d39-be26-e36bdda5fc0f/_apis/work/boardbadge/1a902bc2-129e-4011-a437-f16d038b0272)](https://makautzn.visualstudio.com/438f79e4-a4a1-42c1-9c4f-bbafc8e0df21/_boards/board/t/6874503d-283f-4d39-be26-e36bdda5fc0f/Microsoft.RequirementCategory)
 [![Build Status](https://dev.azure.com/makautzn/ContosoAirDemo/_apis/build/status/ContosoAirWebCI?branchName=master)](https://dev.azure.com/makautzn/ContosoAirDemo/_build/latest?definitionId=78&branchName=master)
 
 # Microsoft.Github CI Demo

@@ -10,7 +10,7 @@ steps:
       customcommand: 'install --production'
   - script: 'npm test'
     displayName: 'Run unit tests'
-    continueOnError: $(myvar2)
+    continueOnError: ($(myvar2))
   - task: PublishTestResults@2
     displayName: 'Publish Test Results'
     condition: succeededOrFailed()

@@ -3,12 +3,16 @@ pool:
 trigger:
   - master
 
+variables:
+- name: one
+  value: initialValue 
+
 steps:
   - task: Npm@1
     inputs:
       command: 'custom'
       customcommand: 'install --production'
-  - script: '$(newvar)'
+  - script: '$(one)'
     displayName: 'Run unit tests'
     continueOnError: true
   - task: PublishTestResults@2
